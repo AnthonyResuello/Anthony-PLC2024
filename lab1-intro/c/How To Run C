@@ -1,0 +1,5 @@
+
+Run C Program
+
+
+./compile-run-c.sh YourCProgram.c      <--- change name of file
