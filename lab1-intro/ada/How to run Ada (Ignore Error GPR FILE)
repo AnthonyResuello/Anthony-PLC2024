@@ -1,0 +1,8 @@
+
+Run ada program (Ignore Message)
+
+
+bash compile-run-ada.sh your_file_name.adb      <----- Change file 
+
+
+Ignore the error message asking to create GPR file, dont need to worry about it
